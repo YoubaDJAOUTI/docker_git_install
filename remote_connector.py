@@ -4,6 +4,7 @@ import os
 import pty
 import select
 import subprocess
+import time
 
 SERVER_IP = "192.168.1.84"  # Adresse du serveur
 SERVER_PORT = 5553
