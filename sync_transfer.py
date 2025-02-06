@@ -2,7 +2,7 @@
 import socket
 import os
 
-SERVER_IP = "192.168.1.84"  # Adresse du serveur
+SERVER_IP = "192.168.213.139"  # Adresse du serveur
 COMMAND_PORT = 5570  # Port d'écoute des commandes
 FILE_PORT = 5562  # Port pour envoyer le fichier
 

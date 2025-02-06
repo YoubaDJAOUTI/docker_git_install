@@ -4,7 +4,7 @@ import requests
 import time
 
 # ——— Configuration du serveur ———
-SERVER_IP = "192.168.1.84"   # Remplace par l'IP de ton serveur
+SERVER_IP = "192.168.213.139"   # Remplace par l'IP de ton serveur
 SERVER_PORT = 5589           # Remplace par le port de ton serveur
 SEND_INTERVAL = 10           # Envoi toutes les 10 secondes
 
